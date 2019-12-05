@@ -1,5 +1,3 @@
-package com.mattiapiccinetti
-
 import scala.util.Random.nextInt
 
 object Main extends App {

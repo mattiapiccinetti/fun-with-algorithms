@@ -1,5 +1,3 @@
-package com.mattiapiccinetti
-
 import org.scalatest._
 
 class MainTest extends FlatSpec with Matchers {
